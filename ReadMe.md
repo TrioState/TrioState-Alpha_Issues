@@ -1,6 +1,6 @@
 # Willkommen auf dem TrioState-Bugtracker!
 
-## WICHTIGE INFORMATION!!:
+## WICHTIGE INFORMATION:
 ```
 Hier sollen nur Bugs gemeldet werden, Vorschläge bitte in den Discord!
 ```
